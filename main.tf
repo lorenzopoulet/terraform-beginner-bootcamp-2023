@@ -4,6 +4,7 @@ terraform {
 
     workspaces {
       name = "terra-house-1"
+      
     }
   }
 }
