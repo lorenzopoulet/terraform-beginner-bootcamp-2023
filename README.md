@@ -1,10 +1,11 @@
 # Terraform Beginner Bootcamp 2023
 
-![268042721-ab015431-2d14-4910-aa37-be4807b2b905](https://github.com/lorenzopoulet/terraform-beginner-bootcamp-2023/assets/141220777/c4b3cdce-aa3e-4fd0-879d-a7814b8cb947)
+![architectural-diagram](https://github.com/omenking/terraform-beginner-bootcamp-2023/assets/7776/ab015431-2d14-4910-aa37-be4807b2b905)
 
 
-## Table of Content
+## Weekly Journals
+- [Week 0 Journal](journal/week0.md)
+- [Week 1 Journal](journal/week1.md)
 
--[Semantic Versioning](#semantic-versioning)
--[Install the Terraform CLI](#install-the-terraform-cli)
-
+## Extras
+- [Github Markdown TOC Generator](https://ecotrust-canada.github.io/markdown-toc/)
